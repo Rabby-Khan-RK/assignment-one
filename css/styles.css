@@ -1,0 +1,143 @@
+nav {
+    margin-bottom: 50px;
+    background-image: url("../image/Hero-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p {
+    color: #373A50;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    border: 30px 30px;
+
+
+}
+
+
+.main-container {
+    margin-top: 30px;
+
+
+}
+
+.banner {
+    text-align: center;
+    /* background-repeat: no-repeat;
+    background-size: 500px; */
+}
+
+
+h3 {
+    font-size: 40px;
+
+}
+
+.btn {
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    margin: 20px 20px;
+}
+
+
+.header {
+    margin: 200px 0px 200px;
+}
+
+
+.secon-bnr {
+    text-align: center;
+}
+
+.third-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+
+
+.forth-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.last-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 200px 0px 200px 0px;
+}
+
+
+.inspiring-contant {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.link-container {
+    text-align: center;
+}
+
+.my-target {
+    text-align: center;
+}
+
+.combaind-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 60px 0px 60px 0px;
+}
+
+.box-one {
+    margin-left: 30px;
+
+}
+
+.box-two {}
+
+.box-third {
+    margin-right: 30px;
+}
+
+.end-container {
+    text-align: center;
+    background: fixed;
+    margin: 100px 100px 100px 100px;
+    border-radius: 20px;
+    background-image: url(../image/handshake.jpg)
+}
+
+.h-end {
+    color: white;
+}
+
+.p-end {
+    color: white;
+}
+
+.dis-btn {
+    border-radius: 7px;
+    margin-bottom: 15px;
+}
+
+.sum-btn {
+    border-radius: 5px;
+}
+
+.feedback {
+    color: white;
+
+}
+
+.link-open {
+    margin: 31px;
+    display: flex;
+    justify-content: space-between;
+}
